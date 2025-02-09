@@ -2,6 +2,6 @@
     "primaryLinks": [],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Header"
 }
